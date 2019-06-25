@@ -49,7 +49,7 @@ echo $red    "00. Exit                        |"
 echo         "================================="
 echo "\033[32;1m"
 echo  "╭─MrYM"
-read -p "╰─#" lurr;
+read -p "╰─#" lurr
 
 if [$lurr = 1] || [$lurr = 1]
 then
