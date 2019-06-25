@@ -23,7 +23,7 @@ echo $red "..//___//          ====================  "
 echo $red ".//___//                                 "
 echo ""
 echo $green " ================================= "
-echo $white "[ Author  : Mr.yM & Kang Adit :v  ]"
+echo $white "[ Author  : Mr.yM & CLAY0101      ]"
 echo $white "[ Team    : Army Cyber Network    ]"
 echo $white "[ Youtube : Maulana RyM           ]"
 echo $white "[ Status  : Tidak Diketahui       ]"
@@ -55,7 +55,6 @@ if [ $lurr = 1 ] || [ $lurr = 1 ]
 then
 clear
 figlet "Clay0101"
-cd module
 python2 euy.py
 fi
 
@@ -63,7 +62,6 @@ if [ $lurr = 2 ] || [ $lurr = 2 ]
 then
 clear
 figlet "Mr.yM"
-cd module
 python2 euy-v7.py
 fi
 
@@ -71,7 +69,6 @@ if [ $lurr = 3 ] || [ $lurr = 3 ]
 then
 clear
 figlet "Hai Gladys"
-cd module
 python2 MBF.py
 fi
 
@@ -79,7 +76,6 @@ if [ $lurr = 4 ] || [ $lurr = 4 ]
 then
 clear
 figlet "Euy Moment"
-cd module
 python2 asu.py
 fi
 
