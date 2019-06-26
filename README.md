@@ -10,5 +10,10 @@ $pip2 install mechanize
 $pip2 install requests
 ```
 give stars to more facebook hack tools
+```
+username : Maulanarym
+password : subscribe
+```
+jika ada yang error, koment aj lurr
 
 awikawok
