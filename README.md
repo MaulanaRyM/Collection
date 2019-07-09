@@ -1,6 +1,6 @@
 # Collection
-Koleksi Tools Hack Facebook By Mr.yM feat Clay0101
-# Need
+Kumpulan Tools Hack Facebook
+# Need Install
 ```
 $apt update && apt upgrade
 $pkg install git
@@ -16,4 +16,4 @@ password : subscribe
 ```
 jika ada yang error, koment aj lurr
 
-awikawok
+awikwok
