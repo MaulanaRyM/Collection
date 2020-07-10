@@ -6,9 +6,9 @@ $apt update && apt upgrade
 $pkg install git
 $pkg install python2
 $pip2 install --upgrade pip
-
-
 ```
+
+
 give stars to more facebook hack tools
 ```
 username : Maulanarym
